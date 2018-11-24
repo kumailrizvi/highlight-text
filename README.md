@@ -1,6 +1,6 @@
 # Handy-Highlight
 
-A tool for highlighting the text.
+A tool for highlighting text.
 
 # Quick links
 1. [Usage](#usage)
@@ -64,5 +64,3 @@ options = {
   <dt>onclick:</dt>
   <dd>Function to be executed when clicked on the div.</dd>
 </dl>
-
-**Thnx for reading!!**

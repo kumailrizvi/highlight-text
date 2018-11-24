@@ -1,7 +1,7 @@
 {
-  "name": "handy-highlight",
+  "name": "highlight-text",
   "version": "1.0.0",
-  "description": "A tiny, useful & handy highlight system which can be used with a simple API!",
+  "description": "A tool for highlighting the text.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,12 +11,12 @@
     "url": "git+https://github.com/kumailrizvi/highlight-text"
   },
   "keywords": [
-    "handy",
-    "takkar",
+    "text",
+    "kumailrizvi",
     "highlight"
   ],
-  "author": "takkar <shtakkar@gmail.com>",
-  "license": "ISC",
+  "author": "kumailrizvi",
+  "license": "",
   "bugs": {
     "url": "https://github.com/kumailrizvi/highlight-text/issues"
   },
