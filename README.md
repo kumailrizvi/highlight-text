@@ -1,11 +1,10 @@
 # Handy-Highlight
 
-A very handy tool for highlighting the text & having fun with it - Inspired by [Medium](https://medium.com). Demo below!!
+A tool for highlighting the text.
 
 # Quick links
 1. [Usage](#usage)
-2. [Demo](#demo)
-3. [API](#api)
+2. [API](#api)
 
 # Usage
 1. Install with `npm` or `Yarn`.
@@ -40,8 +39,6 @@ A very handy tool for highlighting the text & having fun with it - Inspired by [
     }
     ```
 
-# Demo
-**Visit [this](https://codesandbox.io/s/6xv0xq3o53) link for the demo!!**
 
 # API
 ```javascript
