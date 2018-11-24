@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yTakkar/Handy-Highlight.git"
+    "url": "git+https://github.com/kumailrizvi/highlight-text"
   },
   "keywords": [
     "handy",
@@ -18,7 +18,7 @@
   "author": "takkar <shtakkar@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yTakkar/Handy-Highlight/issues"
+    "url": "https://github.com/kumailrizvi/highlight-text/issues"
   },
-  "homepage": "https://github.com/yTakkar/Handy-Highlight#readme"
+  "homepage": "https://github.com/kumailrizvi/highlight-text#readme"
 }
